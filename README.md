@@ -36,9 +36,5 @@ Open-source under [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 Open an issue for questions/support or contact via email on the project's GitHub profile.
-
-## Acknowledgments
-Thanks to contributors and supporters of this project.
 ```
 
-You can copy and paste this markdown content into your GitHub repository's README file. Feel free to modify or add sections as needed for your project.
