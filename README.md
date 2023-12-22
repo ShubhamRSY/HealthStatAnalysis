@@ -36,5 +36,5 @@ Open-source under [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 Open an issue for questions/support or contact via email on the project's GitHub profile.
-```
+
 
